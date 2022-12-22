@@ -1,0 +1,2 @@
+#+title:Logic Programming
+#+description: Playground for Prolog, Answer Set Programming, sCASP, Linear Logic, etc etc.
